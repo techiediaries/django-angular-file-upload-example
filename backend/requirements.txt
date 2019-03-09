@@ -1,0 +1,6 @@
+autopep8==1.4.3
+Django==2.1.7
+django-cors-headers==2.5.0
+djangorestframework==3.9.2
+pycodestyle==2.5.0
+pytz==2018.9
