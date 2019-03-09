@@ -1,4 +1,8 @@
-# Django & Angular File Upload Example
+# Django & Angular 7 File Upload Example
+
+
+For instructions, check out: [Django REST Framework Image File Upload Tutorial & Example [FormData & Angular 7 UI]](https://www.techiediaries.com/django-rest-image-file-upload-tutorial/)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
